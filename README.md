@@ -1,4 +1,3 @@
-# cv-priv-projects
-Anlage zu Lebenslauf | Künftige private Projekte
+# Anlage zu Lebenslauf | Künftige private Projekte
 
 Work in Progress!
