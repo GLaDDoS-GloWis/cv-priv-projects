@@ -33,4 +33,11 @@ Wesentliche Features bzw. Bot-Module:
 - Bot zur Benachrichtigung der entsprechenden Administration
 - Hat Anbindungen zu Logs etc. von den obigen Modulen
 
+### PlottR
+*You're a statistic Harry*
+- Bot zur Analyse der Daten von Guardian und weiteren Informationen
+- I/O; VC usage; TC(Text Channel) usage; User activity; common visitor time; VC duration etc.
+
+
+
 ...Work in Progress! (wird sich bis anfang April noch füllen)
