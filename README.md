@@ -26,7 +26,7 @@ Wesentliche Features:
 *Ein Tisch für 2 bitte!*
 - Dynamische VC Erstellung durch beitreten eines Template-VCs 
 - Moven des entsprechenden Users
-- Löschung des dyn VCs bei 0 leerem VC
+- Löschung des dyn VCs bei leerem VC
 
 
 ...Work in Progress! (wird sich bis anfang April noch füllen)
