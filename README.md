@@ -7,7 +7,7 @@ Auflistung von Ideen die zukünftig privat umgesetzt werden.
 
 
 ## Discord Bot Development
-Wesentliche Features:
+Wesentliche Features bzw. Bot-Module:
 
 ### Rollenkiosk 
 - Vergabe von Rollen via emote-reactions
@@ -28,5 +28,9 @@ Wesentliche Features:
 - Moven des entsprechenden Users
 - Löschung des dyn VCs bei leerem VC
 
+### WarnA
+*Warn Administration*
+- Bot zur Benachrichtigung der entsprechenden Administration
+- Hat Anbindungen zu Logs etc. von den obigen Modulen
 
 ...Work in Progress! (wird sich bis anfang April noch füllen)
