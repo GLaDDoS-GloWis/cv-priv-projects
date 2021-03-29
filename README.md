@@ -3,8 +3,18 @@ Auflistung von Ideen die zukünftig privat umgesetzt werden.
 
 
 ## WebApp Nutzerverwaltung für Gaming Community Leitung
+- Implementierung der Bungie.net API
+- Implementierung der Discord API
+- Implementierung der Steam API
+- DB
 - w.i.p. 
 
+## Raidkalender für Destiny 2
+- WebCal 
+- Implementierung der Bungie.net API
+- Implementierung der Discord API
+- Discord Benachrichtigung
+- Logs
 
 ## Discord Bot Development
 Wesentliche Features bzw. Bot-Module:
