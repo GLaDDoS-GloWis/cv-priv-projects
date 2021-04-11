@@ -50,4 +50,4 @@ Wesentliche Features bzw. Bot-Module:
 
 
 
-...Work in Progress! (wird sich bis anfang April noch füllen)
+...Work in Progress! (Liste kann sich noch füllen)
