@@ -2,35 +2,39 @@
 Auflistung von Ideen die zukünftig privat umgesetzt werden.
 
 
-## WebApp Nutzerverwaltung für Gaming Community Leitung
-- Implementierung der Bungie.net API
-- Implementierung der Discord API
-- Implementierung der Steam API
-- DB
-- w.i.p. 
+## WebApp Nutzerverwaltung für Gaming Community Administration
+Umsetzung des BEs: In Java mit Spring eine REST
+Umsetzung des FEs: Mit VueJS
+- Bungie.net API
+- Discord API (discord.py)
+- Steam API
+- DB: MongoDB(?) oder Postgres(?) 
 
 ## Raidkalender für Destiny 2
+Umsetzung des BEs: In Java mit Spring eine REST
+Umsetzung des FEs: Mit VueJS
 - WebCal 
-- Implementierung der Bungie.net API
-- Implementierung der Discord API
+- Bungie.net API
+- Discord API (discord.py)
 - Discord Benachrichtigung
 - Logs
 
 ## Discord Bot Development
-Wesentliche Features bzw. Bot-Module:
+Implementierung mit Python und discord.py
+Features werden in Microservices unterteilt und Docker bereit gemacht 
+Wesentliche Features:
+
+### Guardian (fertig implementiert & als Docker image deployed)
+- Bei- und Austritt monitoring 
+
+### Cleanser
+- Löschung von X Nachrichten in Channel Y bzw. bulk deletion
+- Crontab Funktionalität zu Channel hinzufügen bzw. "säubere den gesamten Kanal um 23:59Uhr"
 
 ### Rollenkiosk 
 - Vergabe von Rollen via emote-reactions
+- Dabei gibt "+" und "-" nimmt die Rolle
 - Logging der entsprechenden Aktion
-
-### Guardian
-- Überwachung von User Ein- und Austritt
-- Invite monitoring
-- Invite management
-
-### Cleanser
-- Löschung von X Nachrichten in Channel Y
-- Crontab Funktionalität zu Channel hinzufügen
 
 ### Voice Chat(VC) Diner
 *Ein Tisch für 2 bitte!*
@@ -48,6 +52,3 @@ Wesentliche Features bzw. Bot-Module:
 - Bot zur Analyse der Daten von Guardian und weiteren Informationen
 - I/O; VC usage; TC(Text Channel) usage; User activity; common visitor time; VC duration etc.
 
-
-
-...Work in Progress! (Liste kann sich noch füllen)
