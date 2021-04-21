@@ -1,18 +1,18 @@
 # Anlage zu Lebenslauf | Künftige private Projekte
-Auflistung von Ideen die zukünftig privat umgesetzt werden.
+Auflistung von Ideen die zukünftig privat umgesetzt werden.  
 
 
 ## WebApp Nutzerverwaltung für Gaming Community Administration
-Umsetzung des BEs: In Java mit Spring eine REST
-Umsetzung des FEs: Mit VueJS
+Umsetzung des BEs: In Java mit Spring eine REST  
+Umsetzung des FEs: Mit VueJS  
 - Bungie.net API
 - Discord API (discord.py)
 - Steam API
 - DB: MongoDB(?) oder Postgres(?) 
 
 ## Raidkalender für Destiny 2
-Umsetzung des BEs: In Java mit Spring eine REST
-Umsetzung des FEs: Mit VueJS
+Umsetzung des BEs: In Java mit Spring eine REST  
+Umsetzung des FEs: Mit VueJS  
 - WebCal 
 - Bungie.net API
 - Discord API (discord.py)
@@ -20,9 +20,9 @@ Umsetzung des FEs: Mit VueJS
 - Logs
 
 ## Discord Bot Development
-Implementierung mit Python und discord.py
-Features werden in Microservices unterteilt und Docker bereit gemacht 
-Wesentliche Features:
+Implementierung mit Python und discord.py  
+Features werden in Microservices unterteilt und Docker bereit gemacht  
+Wesentliche Features:  
 
 ### Guardian (fertig implementiert & als Docker image deployed)
 - Bei- und Austritt monitoring 
